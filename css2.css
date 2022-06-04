@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    background:rgb(59,119,18);
+}
+.image .p1{
+    display:inline;
+    position: relative;
+    top:-200px;
+    left:40px;
+    font-size: 40px;
+    letter-spacing: 10px;
+    color:lavender;
+}
+.image .p2{
+    display:inline;
+    position: relative;
+    top:-10px;
+    right:-300px;
+    font-size: 40px;
+    letter-spacing: 10px;
+    color:lavender;
+}
+.image div{
+    display:inline;
+    position:relative;
+    left:210px;
+    top:20px;
+}
+.Welcome{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size:30px;
+    color:lavender;
+    background-color:rgb(59, 119, 18);
+    margin:2px;
+}
+.des{
+    letter-spacing: 4px;
+    color:lavender;
+    font-size: 25px;
+}
+.end{
+    color:lavender;
+    text-align:center;
+    font-size:50px;
+    letter-spacing: 5px;
+}
